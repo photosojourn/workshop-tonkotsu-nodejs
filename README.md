@@ -41,5 +41,3 @@ npm start
 Follow the coach instructions and good luck!
 
 Now with added Actions!
-
-Lets try this
